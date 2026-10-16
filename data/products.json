@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "price": 2.19,
+    "was": 2.79,
+    "emoji": "🥦",
+    "badge": "20% OFF",
+    "subtitle": "Crisp green florets",
+    "group": "Leafy & Green"
+  },
+  {
+    "id": 2,
+    "name": "Carrot",
+    "category": "Vegetables",
+    "price": 1.19,
+    "was": 1.49,
+    "emoji": "🥕",
+    "badge": "10% OFF",
+    "subtitle": "Naturally sweet roots",
+    "group": "Root Veg"
+  },
+  {
+    "id": 3,
+    "name": "Avocado",
+    "category": "Fruits",
+    "price": 3.09,
+    "was": 3.69,
+    "emoji": "🥑",
+    "badge": "Fresh",
+    "subtitle": "Creamy and versatile",
+    "group": "Everyday"
+  },
+  {
+    "id": 4,
+    "name": "Tomato",
+    "category": "Vegetables",
+    "price": 1.99,
+    "was": 2.39,
+    "emoji": "🍅",
+    "badge": "Fresh Pick",
+    "subtitle": "Juicy salad essential",
+    "group": "Everyday"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Breast",
+    "category": "Meat & Fish",
+    "price": 3.29,
+    "was": 3.89,
+    "emoji": "🍗",
+    "badge": "Market Deal",
+    "subtitle": "Lean protein cut",
+    "group": "Protein"
+  },
+  {
+    "id": 6,
+    "name": "Salmon",
+    "category": "Meat & Fish",
+    "price": 4.29,
+    "was": 4.99,
+    "emoji": "🐟",
+    "badge": "Market Deal",
+    "subtitle": "Seafood favourite",
+    "group": "Protein"
+  },
+  {
+    "id": 7,
+    "name": "Beef",
+    "category": "Meat & Fish",
+    "price": 6.19,
+    "was": 6.79,
+    "emoji": "🥩",
+    "badge": "10% OFF",
+    "subtitle": "Cook-in-style protein",
+    "group": "Protein"
+  },
+  {
+    "id": 8,
+    "name": "Banana",
+    "category": "Fruits",
+    "price": 2.49,
+    "was": 2.99,
+    "emoji": "🍌",
+    "badge": "Best Seller",
+    "subtitle": "Sweet everyday fruit",
+    "group": "Everyday"
+  },
+  {
+    "id": 9,
+    "name": "Pineapple",
+    "category": "Fruits",
+    "price": 3.99,
+    "was": 4.49,
+    "emoji": "🍍",
+    "badge": "Seasonal",
+    "subtitle": "Tropical golden fruit",
+    "group": "Seasonal"
+  },
+  {
+    "id": 10,
+    "name": "Blueberry",
+    "category": "Fruits",
+    "price": 3.99,
+    "was": 4.59,
+    "emoji": "🫐",
+    "badge": "Fresh",
+    "subtitle": "Berry-sized goodness",
+    "group": "Seasonal"
+  },
+  {
+    "id": 11,
+    "name": "Rice",
+    "category": "Rice & Grains",
+    "price": 4.99,
+    "was": 5.49,
+    "emoji": "🌾",
+    "badge": "Farm Pick",
+    "subtitle": "Comforting pantry staple",
+    "group": "Grains"
+  },
+  {
+    "id": 12,
+    "name": "Mango",
+    "category": "Fruits",
+    "price": 2.99,
+    "was": 3.59,
+    "emoji": "🥭",
+    "badge": "Hot Deal",
+    "subtitle": "Sunny tropical flavour",
+    "group": "Seasonal"
+  },
+  {
+    "id": 13,
+    "name": "Orange",
+    "category": "Fruits",
+    "price": 2.79,
+    "was": 3.19,
+    "emoji": "🍊",
+    "badge": "Citrus",
+    "subtitle": "Bright citrus treat",
+    "group": "Seasonal"
+  },
+  {
+    "id": 14,
+    "name": "Eggs",
+    "category": "Dairy & Eggs",
+    "price": 2.09,
+    "was": 2.49,
+    "emoji": "🥚",
+    "badge": "Farm Pick",
+    "subtitle": "Breakfast staple",
+    "group": "Protein"
+  },
+  {
+    "id": 15,
+    "name": "Milk",
+    "category": "Dairy & Eggs",
+    "price": 2.59,
+    "was": 2.99,
+    "emoji": "🥛",
+    "badge": "Fresh",
+    "subtitle": "Everyday dairy essential",
+    "group": "Everyday"
+  },
+  {
+    "id": 16,
+    "name": "Cabbage",
+    "category": "Vegetables",
+    "price": 1.69,
+    "was": 2.09,
+    "emoji": "🥬",
+    "badge": "Fresh Pick",
+    "subtitle": "Tender leafy crunch",
+    "group": "Leafy & Green"
+  }
+]
